@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Coder"
+
+# Optional Google font URL
+google_fonts = "family=Roboto+Mono:wght@400;700&family=Roboto:wght@400;700"
+
+# Font families
+heading_font = "Roboto Mono"
+body_font = "Roboto"
+nav_font = "Roboto Mono"
+mono_font = "Roboto Mono"

@@ -14,7 +14,7 @@ organizations:
   url: https://www.siasearch.io/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I enjoy working on novel data processing systems or exploring the intersection of machine learning and data systems.
 
 # Interests to show in About widget
 interests:
